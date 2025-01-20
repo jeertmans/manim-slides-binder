@@ -1,4 +1,4 @@
-FROM ghcr.io/jeertmans/manim-slides:v5.3.0
+FROM ghcr.io/jeertmans/manim-slides:v5.3.1
 
 USER root
 RUN pip install notebook
